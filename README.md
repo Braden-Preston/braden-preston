@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Braden</h1>
-<h3 align="center">I am a 3D artist computer geek becoming a freelance developer</h3>
+<h3 align="center">I am a 3D artist becoming a freelance developer</h3>
 
 <p align="center">
 <a href="https://discord.com/users/bradenp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="164268" height="30" width="30" /></a>
