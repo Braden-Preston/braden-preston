@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Braden</h1>
+<h1 align="center">Hello! I'm Braden 🫠</h1>
 <h3 align="center">I am a 3D artist becoming a freelance developer</h3>
 
 <p align="center">
