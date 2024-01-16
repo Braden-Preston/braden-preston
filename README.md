@@ -3,14 +3,14 @@
 
 <p align="center">
 <a href="https://discord.com/users/bradenp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="164268" height="30" width="30" /></a>
-<a href="https://dev.to/danielgtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danielgtaylor" height="30" width="30" /></a>&nbsp;
-<a href="[https://linkedin.com/in/danielgtaylor](https://www.linkedin.com/in/braden-preston-94b05531/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielgtaylor" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/bradenp32523" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bradenpreston" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/braden-preston-94b05531/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielgtaylor" height="30" width="30" /></a>&nbsp;
 </p>
 
 <br />
 <ul>
   <li>🔭 I’m currently working on a one man SaaS startup.</li>
-  <li>🌱 I’m currently learning golang, htmx, and sqlite.</li>
+  <li>🌱 Right now, I am enjoing learning learning golang, htmx, and sqlite.</li>
   <li>📫 Send me a private message if you would like to talk.</li>
 </ul>
 
