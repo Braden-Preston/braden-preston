@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Braden</h1>
+<h3 align="center">I am a 3D artist computer geek becoming a freelance developer</h3>
 
-<!--
-**Braden-Preston/braden-preston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://discord.com/users/bradenp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="164268" height="30" width="30" /></a>
+<a href="https://dev.to/danielgtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danielgtaylor" height="30" width="30" /></a>&nbsp;
+<a href="[https://linkedin.com/in/danielgtaylor](https://www.linkedin.com/in/braden-preston-94b05531/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielgtaylor" height="30" width="30" /></a>&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<br />
+<ul>
+  <li>🔭 I’m currently working on a one man SaaS startup.</li>
+  <li>🌱 I’m currently learning golang, htmx, and sqlite.</li>
+  <li>📫 Send me a private message if you would like to talk.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=braden-preston&show_icons=true&count_private=1" alt="braden-preston" /></a></p>
