@@ -8,8 +8,8 @@
 </p>
 <br />
 <ul>
-  <li>🔭 I’m currently working on a one man SaaS startup.</li>
-  <li>🌱 Right now, I am enjoing learning learning golang, htmx, and sqlite.</li>
+  <li>🔭 I’m currently working on a SaaS startup for contractors.</li>
+  <li>🌱 Right now, I am enjoing learning learning dart, rust, and golang.</li>
   <li>📫 Send me a private message if you would like to talk.</li>
 </ul>
 <br />
